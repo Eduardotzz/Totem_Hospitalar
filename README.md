@@ -32,6 +32,7 @@ totem-hospitalar
 2. Abrir o projeto no Visual Studio Code.
 3. Executar o arquivo **main.py**.
 
-## Autores
+##DUPLA
 
-Projeto desenvolvido para atividade de trabalho colaborativo utilizando GitHub.
+1EDUARDO HENRIQUE FERNANDES FERREIRA
+2GUSTAVO PRATES
